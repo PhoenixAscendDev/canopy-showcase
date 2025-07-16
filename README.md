@@ -23,7 +23,6 @@ This showcase provides publicly available resources that reflect Canopy’s valu
 | **Hi-Lo Gauge**              | Used to assess the Quality of a product version and where the team wishes to increase it to based on defined Quality criteria.                                     |
 | **Sanity Check**             | Deployment Pre-Check for a given package. Should we release this thing?                                                                                            |
 | **Loading Dock**             | Visual aid when team plans to close packages and deploy packages. Indicates version # and success/fail of intent. Time is broken up by Weeks called Loading Docks. |
-| **Design Solution Template** | Stack-trace style planning for feature design.                                                                                                                     |
 
 ---
 
